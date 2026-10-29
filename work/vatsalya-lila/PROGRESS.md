@@ -11,7 +11,9 @@ Part 03 is not on Desire Tree and not in the audio folder. The set is 01, 02, th
 
 Part 6 was heard again on 29 Oct 2026 from the local MP3, 10,950,924 bytes. The cancelled pass of 28 Oct does not count. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 06`. The local MP3 was removed after the size check. Part 6 opens on the Sūrdās song where part 5 stopped, and it ends while Upananda is still speaking, on the child who somehow escaped Pūtanā.
 
-Part 7 was heard on 29 Oct 2026 from the Desire Tree file, 10,972,135 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 07`. The local MP3 was removed after the size check. Part 7 continues that sentence, and it ends as Bakāsura is introduced, Pūtanā's brother, in Kaṃsa's company. The next row is part 8. Part 3 stays missing.
+Part 7 was heard on 29 Oct 2026 from the Desire Tree file, 10,972,135 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 07`. The local MP3 was removed after the size check. Part 7 continues that sentence, and it ends as Bakāsura is introduced, Pūtanā's brother, in Kaṃsa's company.
+
+Part 8 was heard on 29 Oct 2026 from the Desire Tree file, 10,965,761 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 08`. The local MP3 was removed after the size check. Part 8 opens as Bakāsura swallows Kṛṣṇa, and it ends while he is saying what a visitor should bring for the elders, the monkeys, the pigeons, and the peacocks. The next row is part 9. Part 3 stays missing.
 
 | Part | File | Status |
 |---:|---|---|
@@ -22,7 +24,7 @@ Part 7 was heard on 29 Oct 2026 from the Desire Tree file, 10,972,135 bytes. Hin
 | 05 | RGS_Vatsalya_Lila_Part_05.mp3 | on Drive, local audio removed after the check |
 | 06 | RGS_Vatsalya_Lila_Part_06.mp3 | on Drive, local audio removed after the check |
 | 07 | RGS_Vatsalya_Lila_Part_07.mp3 | on Drive, local audio removed after the check |
-| 08 | RGS_Vatsalya_Lila_Part_08.mp3 | not started |
+| 08 | RGS_Vatsalya_Lila_Part_08.mp3 | on Drive, local audio removed after the check |
 | 09 | RGS_Vatsalya_Lila_Part_09.mp3 | not started |
 | 10 | RGS_Vatsalya_Lila_Part_10.mp3 | not started |
 | 11 | RGS_Vatsalya_Lila_Part_11.mp3 | not started |

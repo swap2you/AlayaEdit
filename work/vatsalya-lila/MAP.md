@@ -78,4 +78,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-07/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,972,135 bytes. The sitting continues Upananda and stops as Bakāsura is introduced.
 
+## Part 8
+
+Folder: https://drive.google.com/drive/folders/12KVHyuddrZGKeI3i1-2asWqEnxsLRr0c
+Hindi: https://drive.google.com/file/d/1DOIeFM5BH1KPtbLmEAyouXtOfC5QnpJN/view
+English: https://drive.google.com/file/d/1cqigLgcfJV0O97wr2dtww8crXvnUt_wl/view
+Chapter: https://drive.google.com/file/d/1rAuQKdZBHuUY673V9Jf7GSUT0naOxzH5/view
+Clips: https://drive.google.com/file/d/1UKTmn4rDB1LxjcPbwLTxyr4d0i7EX1Xp/view
+Note: https://drive.google.com/file/d/1qaaP1c1kO26qlLKLrjpdRROrkTtqYxAg/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/12VQld5i0AVtnPVdnpFAgoTa4Wm_ULCsH/view
+
+Local text stays in `work/vatsalya-lila/part-08/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,965,761 bytes. The sitting opens as Bakāsura swallows Kṛṣṇa and stops on what a visitor should bring for Vrindavan.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3

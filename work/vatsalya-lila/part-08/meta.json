@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_08.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_08.mp3",
+  "audio": "work\\vatsalya-lila\\part-08\\source\\RGS_Vatsalya_Lila_Part_08.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5481.744,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9184,
+  "cue_count": 666,
+  "review_count": 56,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 18,
+  "scripture": "Srimad-Bhagavatam 10.11.48 for the name and the sudden swallow. The rest of the killing, the elders, and the katha that removes the pain of the world are chapter 11, without a verse number he did not lock. Srimad-Bhagavatam 1.1.2 and 1.7.6 as Prabhupada reads them. Siksastaka 1. Srimad-Bhagavatam 10.12.1 for the forest meal. Surdas is cited as Maharaj cited him, without a fabricated pad number. The sitting ends before Aghasura is killed."
+}
