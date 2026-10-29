@@ -90,4 +90,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-08/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,965,761 bytes. The sitting opens as Bakāsura swallows Kṛṣṇa and stops on what a visitor should bring for Vrindavan.
 
+## Part 9
+
+Folder: https://drive.google.com/drive/folders/1sF0U0tV4IN7M4rcocNc1xrulZhvp5HQw
+Hindi: https://drive.google.com/file/d/17d3iRFeZHeUGciJwoT-UuKOm3lEdaCgF/view
+English: https://drive.google.com/file/d/1KU1b0yt6Rb6bcMaDKVsk-mH1bDBTcYcf/view
+Chapter: https://drive.google.com/file/d/1bLZU_l6pIBKJLRg_8Z9haEtliBdcmxsr/view
+Clips: https://drive.google.com/file/d/1seiC9VrLHCMoumsTsCHSPPsje5HlA9o0/view
+Note: https://drive.google.com/file/d/1vRVcUsioVxh_PPdZIfgJKH_Izr7aYSAn/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1Z2BXNc-qio19Xpgv57DaTxpn-9HvfmlA/view
+
+Local text stays in `work/vatsalya-lila/part-09/`. The MP3 is not kept locally after the size check. The same file is the audio above, 11,036,396 bytes. The sitting continues the boys' play and stops after they have entered Aghāsura's mouth. He has not swallowed them.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3

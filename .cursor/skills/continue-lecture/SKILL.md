@@ -36,8 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 9
+## Vatsalya, part 10
 
-Part 8 is on Drive. The next row in `PROGRESS.md` is part 9. Download it from Desire Tree. Do not upload the MP3 again. Part 8 ends while he is saying what a visitor should bring for the elders, the monkeys, the pigeons, and the peacocks of Vrindavan.
+Part 9 is on Drive. The next row in `PROGRESS.md` is part 10. Download it from Desire Tree. Do not upload the MP3 again. Part 9 ends after the calves and the boys have entered Aghāsura's mouth. He has not swallowed them. Kṛṣṇa has not yet gone in.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.

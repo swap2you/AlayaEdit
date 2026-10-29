@@ -47,4 +47,4 @@ Upload text to the series folder that already exists. Match the byte size, then 
 
 ## Where the work stopped
 
-29 Oct 2026, Vatsalya Lila part 8 is on Drive. The next part is 9. Part 8 opens as Bakāsura swallows Kṛṣṇa and ends on what a visitor should bring for Vrindavan. Details: `docs/WHERE_WE_STOPPED.md`.
+29 Oct 2026, Vatsalya Lila part 9 is on Drive. The next part is 10. Part 9 ends after the boys have entered Aghāsura's mouth. He has not swallowed them. Details: `docs/WHERE_WE_STOPPED.md`.

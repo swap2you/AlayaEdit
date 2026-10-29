@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_09.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_09.mp3",
+  "audio": "work\\vatsalya-lila\\part-09\\source\\RGS_Vatsalya_Lila_Part_09.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5517.061,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9502,
+  "cue_count": 676,
+  "review_count": 42,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 15,
+  "scripture": "Srimad-Bhagavatam 10.12.11 and 10.12.12. The Aghasura passage is the same chapter, without a verse number he did not lock. Chaitanya-charitamrita for the horse and for which Brahma, as Maharaj told them. Tulsidas, Ramcharitmanas, for the saint's nature, without a doha number he did not speak. Siksastaka 1. The sitting ends before Krishna enters the mouth."
+}
