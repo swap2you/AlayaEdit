@@ -126,4 +126,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-11/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,953,536 bytes. The sitting continues the railway-station sentence and stops when Kṛṣṇa knows Brahma stole the calves and the boys.
 
+## Part 12
+
+Folder: https://drive.google.com/drive/folders/1ZRzIULIWpgdtrBskv9Hy8xX1492uAr1p
+Hindi: https://drive.google.com/file/d/1dnJbc5fR1H48qRsUFoKfxVWAQVvLNXdx/view
+English: https://drive.google.com/file/d/1UBbBDGS7o2h_GVE0RJSQmtIxtJ-jVeDh/view
+Chapter: https://drive.google.com/file/d/1d5_B7-UWF0c45h28xKG97kP7Sby8chZi/view
+Clips: https://drive.google.com/file/d/1wMBBflY2yTgMz47zsAySJj2fRzXKNV9y/view
+Note: https://drive.google.com/file/d/1sm1iOxF-v3dpyuLSnonTAXc7zAADtRmd/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1pqhB2_7NFCcuBHvXAnvK6e-JkCwrJ51d/view
+
+Local text stays in `work/vatsalya-lila/part-12/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,881,125 bytes. The sitting continues the missing-person sentence and stops when one example has been given, of fog against a night already full of darkness.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3

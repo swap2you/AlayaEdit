@@ -36,8 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 12
+## Vatsalya, part 13
 
-Part 11 is on Drive. The next row in `PROGRESS.md` is part 12. A hearing may already be running. Do not start a second pass. Do not upload the MP3 again. Part 11 ends when Kṛṣṇa knows that Brahma stole the calves and the boys, on the word for a missing person.
+Part 12 is on Drive. The next row in `PROGRESS.md` is part 13. The hearing has finished. Do not start a second pass. Do not upload the MP3 again. Part 12 ends when one example has been given, of fog against a night already full of darkness.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.

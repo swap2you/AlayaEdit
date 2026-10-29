@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_12.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_12.mp3",
+  "audio": "work\\vatsalya-lila\\part-12\\source\\RGS_Vatsalya_Lila_Part_12.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5439.425,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 8542,
+  "cue_count": 639,
+  "review_count": 40,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 16,
+  "scripture": "Krishna becoming the calves and the boys, the cows from Govardhana, Balarama's question, and Brahma's truti are Srimad-Bhagavatam, Tenth Canto, as Maharaj told them, without verse numbers he did not lock. Surdas is named where the song is clear. The commentator whose name was unclear is one acharya. The sitting ends when one example, of fog against a dark night, has been given."
+}

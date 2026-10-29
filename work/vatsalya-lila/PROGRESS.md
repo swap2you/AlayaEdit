@@ -19,7 +19,9 @@ Part 9 was heard on 29 Oct 2026 from the Desire Tree file, 11,036,396 bytes. Hin
 
 Part 10 was heard on 29 Oct 2026 from the Desire Tree file, 10,916,442 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 10`. The local MP3 was removed after the size check. Part 10 continues inside the mouth. Aghāsura dies, the boys are brought back by a glance, and the sitting ends as the eagerness for Kṛṣṇa-kathā is compared with a man greedy for talk of women, on the way to a railway station.
 
-Part 11 was heard on 29 Oct 2026 from the Desire Tree file, 10,953,536 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 11`. The local MP3 was removed after the size check. Part 11 continues the railway-station sentence, and it ends when Kṛṣṇa knows that Brahma stole the calves and the boys, on the word for a missing person. The next row is part 12. Part 3 stays missing.
+Part 11 was heard on 29 Oct 2026 from the Desire Tree file, 10,953,536 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 11`. The local MP3 was removed after the size check. Part 11 continues the railway-station sentence, and it ends when Kṛṣṇa knows that Brahma stole the calves and the boys, on the word for a missing person.
+
+Part 12 was heard on 29 Oct 2026 from the Desire Tree file, 10,881,125 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 12`. The local MP3 was removed after the size check. Part 12 continues the missing-person sentence. Kṛṣṇa becomes the calves and the boys, Balarama is told with five nights left, and the sitting ends when one example has been given, of fog against a night already full of darkness. The next row is part 13. Part 3 stays missing.
 
 | Part | File | Status |
 |---:|---|---|
@@ -34,8 +36,8 @@ Part 11 was heard on 29 Oct 2026 from the Desire Tree file, 10,953,536 bytes. Hi
 | 09 | RGS_Vatsalya_Lila_Part_09.mp3 | on Drive, local audio removed after the check |
 | 10 | RGS_Vatsalya_Lila_Part_10.mp3 | on Drive, local audio removed after the check |
 | 11 | RGS_Vatsalya_Lila_Part_11.mp3 | on Drive, local audio removed after the check |
-| 12 | RGS_Vatsalya_Lila_Part_12.mp3 | hearing, do not start a second pass |
-| 13 | RGS_Vatsalya_Lila_Part_13.mp3 | not started |
+| 12 | RGS_Vatsalya_Lila_Part_12.mp3 | on Drive, local audio removed after the check |
+| 13 | RGS_Vatsalya_Lila_Part_13.mp3 | heard, do not start a second pass |
 
 If this computer stops, open this file. The first row that is not `on Drive` is the part to finish. A part is `on Drive` only after Hindi, English, the chapter, and the clip table are in `09_Transcripts/Part NN`.
 

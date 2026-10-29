@@ -47,4 +47,4 @@ Upload text to the series folder that already exists. Match the byte size, then 
 
 ## Where the work stopped
 
-29 Oct 2026, Vatsalya Lila part 11 is on Drive. The next part is 12. Part 11 ends when Kṛṣṇa knows Brahma stole the calves and the boys, on the word for a missing person. Details: `docs/WHERE_WE_STOPPED.md`.
+29 Oct 2026, Vatsalya Lila part 12 is on Drive. The next part is 13, and it has been heard. Part 12 ends when one example has been given, of fog against a night already full of darkness. Details: `docs/WHERE_WE_STOPPED.md`.
