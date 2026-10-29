@@ -24,5 +24,9 @@ cookies.txt
 tools/
 words.jsonl
 seconds.jsonl
+cues.json
+cues_polished.json
+original.srt
+work/vatsalya-lila/_pack/
 .DS_Store
 Thumbs.db

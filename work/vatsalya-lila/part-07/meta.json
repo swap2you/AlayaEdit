@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_07.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_07.mp3",
+  "audio": "work\\vatsalya-lila\\part-07\\source\\RGS_Vatsalya_Lila_Part_07.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5484.931,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 8879,
+  "cue_count": 669,
+  "review_count": 35,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 19,
+  "scripture": "Srimad-Bhagavatam 10.11.24-48. Bhagavad-gita 7.15. Kalidasa is cited as Maharaj cited him, without a fabricated verse number. The Nagnajit story is told as training, from the later lila, without a verse number he did not speak. The sitting ends as Bakasura is named Putana's brother."
+}

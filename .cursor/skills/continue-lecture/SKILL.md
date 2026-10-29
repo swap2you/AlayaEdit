@@ -36,8 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 7
+## Vatsalya, part 8
 
-Part 6 is on Drive. The next row in `PROGRESS.md` is part 7. Download it from Desire Tree. Do not upload the MP3 again. Part 6 ends while Upananda is still speaking, on the child who somehow escaped Pūtanā.
+Part 7 is on Drive. The next row in `PROGRESS.md` is part 8. Download it from Desire Tree. Do not upload the MP3 again. Part 7 ends as Bakāsura is introduced, Pūtanā's brother, in Kaṃsa's company.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.
