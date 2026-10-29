@@ -36,8 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 13
+## Vatsalya, the existing parts
 
-Part 12 is on Drive. The next row in `PROGRESS.md` is part 13. The hearing has finished. Do not start a second pass. Do not upload the MP3 again. Part 12 ends when one example has been given, of fog against a night already full of darkness.
+Parts 1, 2, and 4 through 13 are on Drive. The first row in `PROGRESS.md` that is not `on Drive` is part 3, and it is missing. Do not invent it. Do not start another hearing of a part already filed. Part 13 ends on the aarti of the Bhagavatam.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.

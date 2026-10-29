@@ -47,4 +47,4 @@ Upload text to the series folder that already exists. Match the byte size, then 
 
 ## Where the work stopped
 
-29 Oct 2026, Vatsalya Lila part 12 is on Drive. The next part is 13, and it has been heard. Part 12 ends when one example has been given, of fog against a night already full of darkness. Details: `docs/WHERE_WE_STOPPED.md`.
+29 Oct 2026, Vatsalya Lila parts 1, 2, and 4 through 13 are on Drive. Part 3 is missing. Part 13 ends on the aarti of the Bhagavatam. Details: `docs/WHERE_WE_STOPPED.md`.

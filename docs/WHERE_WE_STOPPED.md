@@ -6,13 +6,13 @@ The application name from here on is AlayaEdit. The old folder `C:\Development\W
 
 ## Resume point
 
-Vatsalya Lila, part 13. Part 12 was heard on 29 Oct 2026 and filed. Part 11 stays as filed.
+The existing Vatsalya Lila parts are on Drive. Part 13 was heard on 29 Oct 2026 and filed. Part 12 stays as filed.
 
-Part 12 text is in Drive `09_Transcripts/Part 12`: https://drive.google.com/drive/folders/1ZRzIULIWpgdtrBskv9Hy8xX1492uAr1p
+Part 13 text is in Drive `09_Transcripts/Part 13`: https://drive.google.com/drive/folders/1tjGjVw4etYYAnG5TsC4CpOI2rfzWBVNN
 
-The local part 12 MP3 was removed after the size check. The audio remains the Drive file of 10,881,125 bytes: https://drive.google.com/file/d/1pqhB2_7NFCcuBHvXAnvK6e-JkCwrJ51d/view
+The local part 13 MP3 was removed after the size check. The audio remains the Drive file of 8,844,410 bytes: https://drive.google.com/file/d/1olSdrrdZyTjNKXW4V5XhJzllrFY9HcqA/view
 
-Part 12 continues the missing-person sentence. Kṛṣṇa becomes the calves and the boys. The sitting stops when one example has been given, of fog against a night already full of darkness. Part 13 has been heard. Do not upload the MP3 again. Do not start a second hearing.
+Part 13 continues the example of fog against a night already full of darkness. Brahma sees every boy as Kṛṣṇa, offers the praise, and the sitting ends on the aarti of the Bhagavatam. This is the last existing part. Part 3 stays missing. Do not invent it.
 
 ## Already finished
 
@@ -30,6 +30,7 @@ Part 12 continues the missing-person sentence. Kṛṣṇa becomes the calves an
 | Vatsalya 10 | on Drive | https://drive.google.com/drive/folders/1qsBAhdAbv1o2CDj7-1UkzYu8TaaxA3Gx |
 | Vatsalya 11 | on Drive | https://drive.google.com/drive/folders/1snhUmt8711aXCX-dIXC935gafQRCXx_W |
 | Vatsalya 12 | on Drive | https://drive.google.com/drive/folders/1ZRzIULIWpgdtrBskv9Hy8xX1492uAr1p |
+| Vatsalya 13 | on Drive | https://drive.google.com/drive/folders/1tjGjVw4etYYAnG5TsC4CpOI2rfzWBVNN |
 | Damodar 2012-10-27 part 5 | finished, do not revise | |
 | Damodar 2012-10-28 part 6 | finished, do not revise | |
 
@@ -39,8 +40,8 @@ Katha library: https://drive.google.com/drive/folders/1vlsOpyow8XBUTpW96HnKw39rN
 
 The full link list is `work/vatsalya-lila/MAP.md`. The row to continue is in `work/vatsalya-lila/PROGRESS.md`.
 
-## After part 12
+## After part 13
 
-Part 12 is on Drive. Part 13 has been heard. Same standard for that last part. Do not start a second hearing. Desire Tree base:
+Parts 1, 2, and 4 through 13 are on Drive. Part 3 is missing from Desire Tree and from the audio folder. Do not invent it. Desire Tree base:
 
 https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/

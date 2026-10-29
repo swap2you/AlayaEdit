@@ -138,4 +138,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-12/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,881,125 bytes. The sitting continues the missing-person sentence and stops when one example has been given, of fog against a night already full of darkness.
 
+## Part 13
+
+Folder: https://drive.google.com/drive/folders/1tjGjVw4etYYAnG5TsC4CpOI2rfzWBVNN
+Hindi: https://drive.google.com/file/d/1AT5sw_qKICnHDkCzGai2aOFI7oGITelP/view
+English: https://drive.google.com/file/d/1pUkQXzwaLfCTH2aofML1bpp8247mOxUQ/view
+Chapter: https://drive.google.com/file/d/1UBCkzQzrg11TJe4JutRc5152yVMNwRYJ/view
+Clips: https://drive.google.com/file/d/1_8-s3aZEnEvJ2gMjDYsI9o1IUocTD300/view
+Note: https://drive.google.com/file/d/1BHTc0Gc3J4a8XZNdTtwnrDdIEo6Cfv4Q/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1olSdrrdZyTjNKXW4V5XhJzllrFY9HcqA/view
+
+Local text stays in `work/vatsalya-lila/part-13/`. The MP3 is not kept locally after the size check. The same file is the audio above, 8,844,410 bytes. The sitting continues the example of the fog and ends on the aarti of the Bhagavatam. This is the last existing part.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3
