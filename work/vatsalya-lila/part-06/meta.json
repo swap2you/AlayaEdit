@@ -1,0 +1,18 @@
+{
+  "source": "work/vatsalya-lila/part-06/source/RGS_Vatsalya_Lila_Part_06.mp3",
+  "origin": "work\\vatsalya-lila\\part-06\\source\\RGS_Vatsalya_Lila_Part_06.mp3",
+  "audio": "work\\vatsalya-lila\\part-06\\source\\RGS_Vatsalya_Lila_Part_06.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5474.325,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9048,
+  "cue_count": 733,
+  "review_count": 62,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 23,
+  "scripture": "Surdas, Sursagar, raga Sorath. Srimad-Bhagavatam 10.11.1-12, 10.11.15-18, 10.11.20-24. The Govardhana lila is named as the Tenth Canto's account, without a verse number he did not speak. Jayadeva's Dashavatara refrain. Bhagnarjuna is given first as the book has it, then as Maharaj read the word. The Draupadi story is told as he told it, without a fabricated verse number. The sitting ends inside the explanation of 10.11.24."
+}

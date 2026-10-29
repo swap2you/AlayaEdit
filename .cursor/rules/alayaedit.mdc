@@ -13,4 +13,4 @@ Keep audio, video, browser profiles, cookies, and `config/business_suite.yaml` o
 
 Facebook and Munch posting stopped on 29 Sep 2026. Do not schedule or publish posts unless the user asks in this conversation.
 
-The folder `FBVideoDownloader` is the previous tree. Leave it in place until the user deletes it.
+The previous tree `FBVideoDownloader` was removed on 29 Oct 2026 after this folder was on GitHub and a lecture upload from here had succeeded.

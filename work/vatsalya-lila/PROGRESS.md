@@ -9,7 +9,7 @@ Original audio is already in `01_Audio_Original` of that series. Do not upload i
 
 Part 03 is not on Desire Tree and not in the audio folder. The set is 01, 02, then 04 through 13.
 
-Stopped on the night of 28 Oct 2026 so the computer can be shut down. Nothing is running. Parts 01, 02, 04, and 05 are finished and on Drive. Tomorrow, when asked to restart, begin at part 6. The MP3 is already on this computer and matches the Drive audio at 10,950,924 bytes: `work/vatsalya-lila/part-06/source/RGS_Vatsalya_Lila_Part_06.mp3`. The hearing was cut off, so that pass does not count. Hear part 6 again from that file, then write Hindi, English, the chapter, and the clip table, upload them, and only then remove the local MP3. Part 5 ended on Sūrdās, with Balarāma asking Mother Yaśodā why she bound Kṛṣṇa. Part 6 opens on that same song.
+Part 6 was heard again on 29 Oct 2026 from the local MP3, 10,950,924 bytes. The cancelled pass of 28 Oct does not count. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 06`. The local MP3 was removed after the size check. Part 6 opens on the Sūrdās song where part 5 stopped, and it ends while Upananda is still speaking, on the child who somehow escaped Pūtanā. The next row is part 7. Part 3 stays missing.
 
 | Part | File | Status |
 |---:|---|---|
@@ -18,7 +18,7 @@ Stopped on the night of 28 Oct 2026 so the computer can be shut down. Nothing is
 | 03 | missing from the source | missing |
 | 04 | RGS_Vatsalya_Lila_Part_04.mp3 | on Drive, local audio removed after the check |
 | 05 | RGS_Vatsalya_Lila_Part_05.mp3 | on Drive, local audio removed after the check |
-| 06 | RGS_Vatsalya_Lila_Part_06.mp3 | STOPPED 28 Oct 2026, mid-hearing. Start here tomorrow. |
+| 06 | RGS_Vatsalya_Lila_Part_06.mp3 | on Drive, local audio removed after the check |
 | 07 | RGS_Vatsalya_Lila_Part_07.mp3 | not started |
 | 08 | RGS_Vatsalya_Lila_Part_08.mp3 | not started |
 | 09 | RGS_Vatsalya_Lila_Part_09.mp3 | not started |

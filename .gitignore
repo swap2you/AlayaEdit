@@ -21,6 +21,7 @@ cookies.txt
 *.wav
 *.m4a
 *.mkv
+tools/
 words.jsonl
 seconds.jsonl
 .DS_Store

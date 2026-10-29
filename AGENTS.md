@@ -47,4 +47,4 @@ Upload text to the series folder that already exists. Match the byte size, then 
 
 ## Where the work stopped
 
-28 Oct 2026, Vatsalya Lila part 6, hearing cancelled so the computer could shut down. The MP3 is local, 10,950,924 bytes, same as Drive file `1F5EZe7QV3qLFcoYS_4EI79C9_gxkIKiq`. Hear it again, then write and upload. Part 5 ended on Sūrdās and Balarāma at the mortar. Details: `docs/WHERE_WE_STOPPED.md`.
+29 Oct 2026, Vatsalya Lila part 6 is on Drive. The next part is 7. Part 6 opens on Sūrdās and ends while Upananda is still speaking. Details: `docs/WHERE_WE_STOPPED.md`.

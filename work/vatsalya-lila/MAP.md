@@ -54,4 +54,16 @@ Audio: https://drive.google.com/file/d/1p_nMC2r3wWxYJ1MHh_zwIgnMDu9KgPzq/view
 
 Local text stays in `work/vatsalya-lila/part-05/`. The MP3 is not kept locally. The same file is the audio above, 10,975,061 bytes.
 
+## Part 6
+
+Folder: https://drive.google.com/drive/folders/1PVSrVJRaqfQ3qLQP2tgieNG16nySBGC6
+Hindi: https://drive.google.com/file/d/1K2hss5D_REbM5LzN2tPb6fNWue68Kjdg/view
+English: https://drive.google.com/file/d/1TU5cSH92scLB-XqMA0MRrUjlxfwCHqCU/view
+Chapter: https://drive.google.com/file/d/1BTGlq5RncheXfs5sI90FSSvSV5drGXfq/view
+Clips: https://drive.google.com/file/d/1ejdZSoRM5Tc257hx5gK0posgCV9GWd6H/view
+Note: https://drive.google.com/file/d/1USIvadXxbrygFScvQNXg7tn4AlyiMQ8r/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1F5EZe7QV3qLFcoYS_4EI79C9_gxkIKiq/view
+
+Local text stays in `work/vatsalya-lila/part-06/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,950,924 bytes. The sitting opens on the Sūrdās song and stops while Upananda is still speaking.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3

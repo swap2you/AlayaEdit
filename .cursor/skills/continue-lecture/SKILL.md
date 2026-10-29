@@ -36,12 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 6
+## Vatsalya, part 7
 
-Audio is already local and matches Drive at 10,950,924 bytes:
-
-`work/vatsalya-lila/part-06/source/RGS_Vatsalya_Lila_Part_06.mp3`
-
-The earlier hearing was cancelled. Start the hearing again from that file. Part 5 ended on Sūrdās, with Balarāma asking Mother Yaśodā why she bound Kṛṣṇa. Part 6 opens on that song.
+Part 6 is on Drive. The next row in `PROGRESS.md` is part 7. Download it from Desire Tree. Do not upload the MP3 again. Part 6 ends while Upananda is still speaking, on the child who somehow escaped Pūtanā.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.
