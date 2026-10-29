@@ -6,13 +6,13 @@ The application name from here on is AlayaEdit. The old folder `C:\Development\W
 
 ## Resume point
 
-Vatsalya Lila, part 11. Part 10 was heard on 29 Oct 2026 and filed. Part 9 stays as filed.
+Vatsalya Lila, part 12. Part 11 was heard on 29 Oct 2026 and filed. Part 10 stays as filed.
 
-Part 10 text is in Drive `09_Transcripts/Part 10`: https://drive.google.com/drive/folders/1qsBAhdAbv1o2CDj7-1UkzYu8TaaxA3Gx
+Part 11 text is in Drive `09_Transcripts/Part 11`: https://drive.google.com/drive/folders/1snhUmt8711aXCX-dIXC935gafQRCXx_W
 
-The local part 10 MP3 was removed after the size check. The audio remains the Drive file of 10,916,442 bytes: https://drive.google.com/file/d/1M2mZkqnGqn-g72MbzJjtSlTNF5WGhZOp/view
+The local part 11 MP3 was removed after the size check. The audio remains the Drive file of 10,953,536 bytes: https://drive.google.com/file/d/1p045xhy4F7wZ7Ox6RvdJA8k8of4B_VKS/view
 
-Part 10 continues inside Aghāsura's mouth. He dies, the boys are brought back by a glance, and the sitting ends on the way to a railway station. Part 11 continues from there. Do not upload the MP3 again. Do not start a second hearing if one is already running.
+Part 11 continues the railway-station sentence. Kṛṣṇa knows that Brahma stole the calves and the boys, and the sitting stops on the word for a missing person. Part 12 continues from there. A hearing is already running. Do not upload the MP3 again. Do not start a second hearing.
 
 ## Already finished
 
@@ -28,6 +28,7 @@ Part 10 continues inside Aghāsura's mouth. He dies, the boys are brought back b
 | Vatsalya 8 | on Drive | https://drive.google.com/drive/folders/12KVHyuddrZGKeI3i1-2asWqEnxsLRr0c |
 | Vatsalya 9 | on Drive | https://drive.google.com/drive/folders/1sF0U0tV4IN7M4rcocNc1xrulZhvp5HQw |
 | Vatsalya 10 | on Drive | https://drive.google.com/drive/folders/1qsBAhdAbv1o2CDj7-1UkzYu8TaaxA3Gx |
+| Vatsalya 11 | on Drive | https://drive.google.com/drive/folders/1snhUmt8711aXCX-dIXC935gafQRCXx_W |
 | Damodar 2012-10-27 part 5 | finished, do not revise | |
 | Damodar 2012-10-28 part 6 | finished, do not revise | |
 
@@ -37,8 +38,8 @@ Katha library: https://drive.google.com/drive/folders/1vlsOpyow8XBUTpW96HnKw39rN
 
 The full link list is `work/vatsalya-lila/MAP.md`. The row to continue is in `work/vatsalya-lila/PROGRESS.md`.
 
-## After part 10
+## After part 11
 
-Part 10 is on Drive. Same standard for parts 11 through 13, one part at a time. Report when a part is on Drive, then start the next hearing. Desire Tree base:
+Part 11 is on Drive. Same standard for parts 12 and 13, one part at a time. Part 12 is already being heard. Report when a part is on Drive, then start the next hearing. Desire Tree base:
 
 https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/

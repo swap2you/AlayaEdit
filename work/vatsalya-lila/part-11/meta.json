@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_11.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_11.mp3",
+  "audio": "work\\vatsalya-lila\\part-11\\source\\RGS_Vatsalya_Lila_Part_11.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5475.631,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9262,
+  "cue_count": 666,
+  "review_count": 40,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 17,
+  "scripture": "The meal, the lotus of boys, and Brahma's theft are Srimad-Bhagavatam, Tenth Canto, without verse numbers he did not lock. Dattatreya on many gurus, and the nectar of devotion for the devotee in the palm, as Maharaj told them. The sitting ends on the missing."
+}

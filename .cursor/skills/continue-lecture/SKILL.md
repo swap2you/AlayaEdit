@@ -36,8 +36,8 @@ Upload text only to the existing series folder. Do not upload the MP3 again. Do 
 
 Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
 
-## Vatsalya, part 11
+## Vatsalya, part 12
 
-Part 10 is on Drive. The next row in `PROGRESS.md` is part 11. A hearing may already be running. Do not start a second pass. Do not upload the MP3 again. Part 10 ends as the eagerness for Kṛṣṇa-kathā is compared with a man greedy for talk of women, and the next sentence is the railway station.
+Part 11 is on Drive. The next row in `PROGRESS.md` is part 12. A hearing may already be running. Do not start a second pass. Do not upload the MP3 again. Part 11 ends when Kṛṣṇa knows that Brahma stole the calves and the boys, on the word for a missing person.
 
 Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.

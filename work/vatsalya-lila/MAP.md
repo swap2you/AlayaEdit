@@ -114,4 +114,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-10/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,916,442 bytes. The sitting continues inside Aghāsura's mouth and stops on the way to a railway station.
 
+## Part 11
+
+Folder: https://drive.google.com/drive/folders/1snhUmt8711aXCX-dIXC935gafQRCXx_W
+Hindi: https://drive.google.com/file/d/1rCBqX_cmY3gelQo8gSxmLbL_3zbKeiPL/view
+English: https://drive.google.com/file/d/1ud1RtFWTka6Q_CMrhrIYI5PU1gF6Kba4/view
+Chapter: https://drive.google.com/file/d/1scsmOvsK8PstROpLc8yKTWa8ePyGzcVr/view
+Clips: https://drive.google.com/file/d/1K2qny18QJeIjAg9e8vCnftdtqrX0UV2n/view
+Note: https://drive.google.com/file/d/1Pt8ZdbKe2Lv7hHoymwwtLwT9d2dv14rA/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1p045xhy4F7wZ7Ox6RvdJA8k8of4B_VKS/view
+
+Local text stays in `work/vatsalya-lila/part-11/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,953,536 bytes. The sitting continues the railway-station sentence and stops when Kṛṣṇa knows Brahma stole the calves and the boys.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3
