@@ -1,0 +1,23 @@
+# Clips from Vatsalya Lila, part 10
+
+Times are from the start of this part. A row is one story that can stand alone.
+
+| Kind | Start | End | Topic | What he says |
+|---|---|---|---|---|
+| Under 10 minutes | 0:00:01 | 0:05:43 | They went in, and he waited | They entered and were not swallowed. Aghasura waits for the enemy of Baka. Krishna, who gives fearlessness to the world, cannot save his own friends, and they seem like straw in the belly's fire. |
+| Under 5 minutes | 0:05:43 | 0:09:44 | He goes in himself | Let the wicked one die, and let the friends live. He enters the mouth. One reading is, without Balarama. The other is, nothing is outside his sight. If Balarama had come, he would have stopped them. |
+| Under 10 minutes | 0:09:46 | 0:14:52 | The gods cry, the demons clap | The gods watch from behind the clouds and cry ha ha. Kamsa's company rejoices, as if they had seen it on a screen. Sanatana says they had the news. Krishna hears both, and the python starts to close. |
+| Under 5 minutes | 0:14:53 | 0:19:34 | The unborn jams in the throat | He expands, and the snake cannot breathe. A python is one that can pass a goat. The real unborn is Krishna. No one was watching, so he could become large. The breath breaks the skull, and the life leaves. |
+| Under 5 minutes | 0:19:34 | 0:23:31 | The glance that is nectar | The children are dead from separation and from the fire. He brings them back with a glance, as he did after Kaliya, and they come out by the mouth. Mukunda: he freed his own, and he freed Aghasura. |
+| Under 5 minutes | 0:23:36 | 0:27:41 | The light waits in the sky | A great light leaves the serpent, waits until Krishna comes out, and enters him while the gods watch. Like Putana. The sky is Vishnu's feet. The Lord wanted this attaining to be seen. |
+| Under 5 minutes | 0:27:48 | 0:31:21 | Each one his own service | Flowers, dance, song, instruments, praise, and the shout of victory. They will not mix it. Each offers what he was given. The sound reaches Brahma. |
+| Under 5 minutes | 0:31:22 | 0:35:53 | Brahma is a little displeased | A sinner is sent to Vaikuntha, so what was the use of Brahma's labor. He will steal the calves and the boys. Making Aghasura an associate is the glory. The body will remain a plaything. |
+| Under 5 minutes | 0:36:00 | 0:40:37 | The cave they played in | The dried body stays for a long time. They hide, slide, and call from the dark, I am here. They will tell it a year later. Pariksit and the sages look astonished. |
+| Under 10 minutes | 0:40:44 | 0:47:56 | Even one remembrance | He did not count the wickedness. He only saw, this one is taking me in. If one memory of the deity gives the Lord's destination, what of the Lord taken in with the friends and the calves. Chaitanya says the temple worship is he himself. |
+| Under 10 minutes | 0:47:56 | 0:54:52 | The same protection, twice | The year is left for tomorrow. Brahma will steal the children. Suta says Pariksit was given by Krishna in Uttara's womb, when Ashvatthama sent the weapon. The belly and the womb match. The mind is seized. |
+| Under 10 minutes | 0:54:54 | 1:00:16 | How is a year called today | The pastimes seized Shukadeva too. He studied because they caught him. The children will say, today he killed Aghasura. Children do not lie. Where were they for the year. |
+| Under 10 minutes | 1:00:16 | 1:09:35 | Three days, and the most fortunate | It can only be Hari's energy. No other maya can cover these associates. Takshaka will bite him, and he calls himself the most fortunate. Jiva counts fortunate, more fortunate, most fortunate. |
+| Under 10 minutes | 1:09:36 | 1:15:03 | The guru may be asked | Prabhupada: a disciple may ask any confidential thing. Shukadeva enters samadhi and sees Krishna become the calves, the boys, and the herd, for a year. Kirtan wakes him. Shaunaka left a sacrifice already begun. |
+| Under 10 minutes | 1:15:29 | 1:20:57 | Eyes open, and not seeing | He had also become the garland, the stick, the basket, and the food. The eyes stay open. The sages start kirtan, and slowly he remembers the bank of the Ganga. A sleeper in a class is a different hearer. |
+| Under 10 minutes | 1:20:57 | 1:26:45 | You make the old katha new | Well asked. A finger and the words I have one question can break an hour of talk. From the womb until this death, mercy. You are the best because you hear the same boyhood as if it were new. |
+| Under 5 minutes | 1:26:45 | 1:30:47 | Like a man greedy for women | Speaker and hearer stand on one ground. You are greedy for Krishna-katha as that man is greedy for talk of women. Vishvanatha says no other comparison was found. The sitting stops at the railway station. |

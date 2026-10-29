@@ -102,4 +102,16 @@ Audio, already in the series, not uploaded again: https://drive.google.com/file/
 
 Local text stays in `work/vatsalya-lila/part-09/`. The MP3 is not kept locally after the size check. The same file is the audio above, 11,036,396 bytes. The sitting continues the boys' play and stops after they have entered Aghāsura's mouth. He has not swallowed them.
 
+## Part 10
+
+Folder: https://drive.google.com/drive/folders/1qsBAhdAbv1o2CDj7-1UkzYu8TaaxA3Gx
+Hindi: https://drive.google.com/file/d/1d9VCGI6jyRTOHAuzpHXp41LukH1AQbGX/view
+English: https://drive.google.com/file/d/1FSpL9j_4gZDvKKd2VuOiMvsZklYYtmAh/view
+Chapter: https://drive.google.com/file/d/1b02C8_N3RH2Q7RxLYmLeD95jumn0q5t8/view
+Clips: https://drive.google.com/file/d/1T-sdbSKk9RXHuGjionc8Aokj5RQAVSHX/view
+Note: https://drive.google.com/file/d/16rGYwZhnNO9HvvfupCfVISlsm2LmSflX/view
+Audio, already in the series, not uploaded again: https://drive.google.com/file/d/1M2mZkqnGqn-g72MbzJjtSlTNF5WGhZOp/view
+
+Local text stays in `work/vatsalya-lila/part-10/`. The MP3 is not kept locally after the size check. The same file is the audio above, 10,916,442 bytes. The sitting continues inside Aghāsura's mouth and stops on the way to a railway station.
+
 Desire Tree: https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_01.mp3

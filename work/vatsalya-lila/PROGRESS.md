@@ -15,7 +15,9 @@ Part 7 was heard on 29 Oct 2026 from the Desire Tree file, 10,972,135 bytes. Hin
 
 Part 8 was heard on 29 Oct 2026 from the Desire Tree file, 10,965,761 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 08`. The local MP3 was removed after the size check. Part 8 opens as Bakāsura swallows Kṛṣṇa, and it ends while he is saying what a visitor should bring for the elders, the monkeys, the pigeons, and the peacocks.
 
-Part 9 was heard on 29 Oct 2026 from the Desire Tree file, 11,036,396 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 09`. The local MP3 was removed after the size check. Part 9 continues that sentence, and it ends after the calves and the boys have entered Aghāsura's mouth. He has not swallowed them. Kṛṣṇa has not yet gone in. The next row is part 10. Part 3 stays missing.
+Part 9 was heard on 29 Oct 2026 from the Desire Tree file, 11,036,396 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 09`. The local MP3 was removed after the size check. Part 9 continues that sentence, and it ends after the calves and the boys have entered Aghāsura's mouth. He has not swallowed them. Kṛṣṇa has not yet gone in.
+
+Part 10 was heard on 29 Oct 2026 from the Desire Tree file, 10,916,442 bytes. Hindi, English, the chapter, and the clip table are in Drive `09_Transcripts/Part 10`. The local MP3 was removed after the size check. Part 10 continues inside the mouth. Aghāsura dies, the boys are brought back by a glance, and the sitting ends as the eagerness for Kṛṣṇa-kathā is compared with a man greedy for talk of women, on the way to a railway station. The next row is part 11. Part 3 stays missing.
 
 | Part | File | Status |
 |---:|---|---|
@@ -28,8 +30,8 @@ Part 9 was heard on 29 Oct 2026 from the Desire Tree file, 11,036,396 bytes. Hin
 | 07 | RGS_Vatsalya_Lila_Part_07.mp3 | on Drive, local audio removed after the check |
 | 08 | RGS_Vatsalya_Lila_Part_08.mp3 | on Drive, local audio removed after the check |
 | 09 | RGS_Vatsalya_Lila_Part_09.mp3 | on Drive, local audio removed after the check |
-| 10 | RGS_Vatsalya_Lila_Part_10.mp3 | hearing, do not start a second pass |
-| 11 | RGS_Vatsalya_Lila_Part_11.mp3 | not started |
+| 10 | RGS_Vatsalya_Lila_Part_10.mp3 | on Drive, local audio removed after the check |
+| 11 | RGS_Vatsalya_Lila_Part_11.mp3 | hearing, do not start a second pass |
 | 12 | RGS_Vatsalya_Lila_Part_12.mp3 | not started |
 | 13 | RGS_Vatsalya_Lila_Part_13.mp3 | not started |
 
