@@ -1,0 +1,47 @@
+---
+name: continue-lecture
+description: >-
+  Hear, transcribe, translate, and file a lecture part in AlayaEdit. Use when
+  the user says to resume, restart, continue a katha or lecture, start the next
+  part, transcribe audio, write Hindi and English captions, a chapter, or clip
+  marks, or names Vatsalya Lila, Damodar Lila, or Guru Maharaj.
+---
+
+# Continue a lecture
+
+Read `work/vatsalya-lila/PROGRESS.md` and `docs/WHERE_WE_STOPPED.md` before doing anything. The first row that is not `on Drive` is the part to finish.
+
+## Hear
+
+```powershell
+uv run alaya-lecture "<audio url or local mp3>" --language hi -o work/vatsalya-lila/part-NN --prompt "यह हिंदी प्रवचन है। वक्ता राधा गोविंद स्वामी महाराज हैं।"
+```
+
+`condition_on_previous_text` stays false. Task is transcribe, not translate. GPU cache stays at `%USERPROFILE%\.cache\huggingface\hub\models--Systran--faster-whisper-large-v3`.
+
+## Write
+
+Hear the whole part, then write sentence-level Hindi and English in a builder under `transcriptions/`, using `transcriptions/_build_vatsalya_05.py` as the shape. One range list, one group list, contiguous cue numbers.
+
+Chapter: Hindi paragraph, then English, no times. Clips: a markdown table.
+
+| Kind | Start | End | Topic | What he says |
+|---|---|---|---|---|
+
+Kinds are only `Under 3 minutes`, `Under 5 minutes`, and `Under 10 minutes`.
+
+## File
+
+Upload text only to the existing series folder. Do not upload the MP3 again. Do not create a second series folder. After `rclone check --size-only` matches, delete the local MP3. Update `PROGRESS.md` and `MAP.md`.
+
+Drive series: `1_J8R5TozO5TfG45y7hFlBoG3i7xsMr7X`. Remote name on this machine: `munchdrive`. Do not print the rclone token.
+
+## Vatsalya, part 6
+
+Audio is already local and matches Drive at 10,950,924 bytes:
+
+`work/vatsalya-lila/part-06/source/RGS_Vatsalya_Lila_Part_06.mp3`
+
+The earlier hearing was cancelled. Start the hearing again from that file. Part 5 ended on Sūrdās, with Balarāma asking Mother Yaśodā why she bound Kṛṣṇa. Part 6 opens on that song.
+
+Damodar Lila 2012 parts 5 and 6 are finished. Do not revise them.

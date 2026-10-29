@@ -1,0 +1,17 @@
+---
+description: How a lecture part is heard, written, and filed
+globs: work/**,transcriptions/**,lectures/**
+alwaysApply: false
+---
+
+# Lecture pipeline
+
+Hear the whole file before writing English. Hindi stays Hindi, in standard spelling.
+
+Take a quoted shloka from the book and put the citation in brackets. Vedabase for the Bhagavatam, the Gita, and Chaitanya-charitamrita. If the verse cannot be found, translate what was heard.
+
+Each finished part has `hindi.srt`, `english.srt`, `Chapter.md` with no times, and `Clips.md`. Clip columns are Kind, Start, End, Topic, What he says. Kinds are Under 3 minutes, Under 5 minutes, and Under 10 minutes.
+
+A part is on Drive only after those four files are in `09_Transcripts/Part NN`. Delete the local audio after the byte size matches. Keep the Whisper model cache.
+
+Resume from `work/vatsalya-lila/PROGRESS.md`. The first row that is not `on Drive` is the part to finish. Part 3 of Vatsalya Lila is missing. Do not invent it.

@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_05.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_05.mp3",
+  "audio": "output\\lectures\\vatsalya-lila\\part-05\\source\\RGS_Vatsalya_Lila_Part_05.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5486.394,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9286,
+  "cue_count": 650,
+  "review_count": 33,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 22,
+  "scripture": "Srimad-Bhagavatam 10.10.29-42, 1.1.1, Bhagavad-gita 7.26 and chapter 13, Brahma-sutra 4.1.1, Jayadeva's Dashavatara, Damodarashtakam, Brahma-samhita. The Bhakti-rasayana boon is told as Maharaj told it, without a fabricated verse number. Surdas is given as he sang it."
+}

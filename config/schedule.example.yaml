@@ -1,0 +1,14 @@
+posts_per_day: 2
+# Leave null to start tomorrow
+start_date: null
+daily_times:
+  - "10:00"
+  - "18:00"
+platforms:
+  - facebook
+  - instagram
+content_type: reel
+caption_template: "{title}"
+media_types:
+  - video
+  - image

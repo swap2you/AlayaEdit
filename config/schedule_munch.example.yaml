@@ -1,0 +1,17 @@
+# Two Munch Studio clips per day, morning and evening.
+# Use this config only when scheduling the Munch download folder.
+# Do not reuse it for the already-scheduled Facebook reel library.
+posts_per_day: 2
+start_after_minutes: 30
+interval_hours: null
+start_date: null
+daily_times:
+  - "07:00"
+  - "19:00"
+platforms:
+  - facebook
+  - instagram
+content_type: reel
+caption_template: "{title}"
+media_types:
+  - video

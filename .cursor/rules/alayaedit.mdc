@@ -1,0 +1,16 @@
+---
+description: AlayaEdit is the application name and the boundary for secrets and media
+alwaysApply: true
+---
+
+# AlayaEdit
+
+The application name is AlayaEdit. Use it in docs, commits, and new commands (`alaya-download`, `alaya-lecture`, `alaya-upload`).
+
+Commands `media-download`, `media-lecture`, `media-upload`, and `media-munch` are the same entry points.
+
+Keep audio, video, browser profiles, cookies, and `config/business_suite.yaml` off Git. Finished lecture text belongs in `work/`.
+
+Facebook and Munch posting stopped on 29 Sep 2026. Do not schedule or publish posts unless the user asks in this conversation.
+
+The folder `FBVideoDownloader` is the previous tree. Leave it in place until the user deletes it.

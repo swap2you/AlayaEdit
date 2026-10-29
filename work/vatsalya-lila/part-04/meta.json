@@ -1,0 +1,18 @@
+{
+  "source": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_04.mp3",
+  "origin": "https://audio.iskcondesiretree.com/02_-_ISKCON_Swamis/ISKCON_Swamis_-_R_to_Y/His_Holiness_Radha_Govinda_Swami/Vatsalya_Lila/RGS_Vatsalya_Lila_Part_04.mp3",
+  "audio": "output\\lectures\\vatsalya-lila\\part-04\\source\\RGS_Vatsalya_Lila_Part_04.mp3",
+  "language": "hi",
+  "language_probability": 1.0,
+  "duration_seconds": 5459.122,
+  "model": "large-v3",
+  "device": "cuda",
+  "word_count": 9074,
+  "cue_count": 666,
+  "review_count": 39,
+  "validation_problems": [],
+  "english": "simple English, sentence by sentence, after the whole katha",
+  "hindi": "standard Hindi spelling; Bihari ya/ja and va/ba corrected",
+  "polished_cues": 21,
+  "scripture": "Srimad-Bhagavatam 10.10, Narada on poverty, the curse, the uprooting, and the opening of the twins' prayer. Brahma-samhita is cited as Maharaj cited it."
+}

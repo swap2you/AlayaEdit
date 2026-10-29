@@ -1,0 +1,7 @@
+# Copy to business_suite.yaml. That file stays off Git.
+home_url: "https://business.facebook.com/"
+planner_url: "https://business.facebook.com/"
+business_id: "YOUR_BUSINESS_ID"
+asset_id: "YOUR_PAGE_ASSET_ID"
+headed: true
+user_data_dir: ".playwright/business-suite-profile"
