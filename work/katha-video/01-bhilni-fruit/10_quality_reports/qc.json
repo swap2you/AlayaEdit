@@ -1,0 +1,92 @@
+{
+  "episode": "01-bhilni-fruit",
+  "shots": 10,
+  "keyframes": [
+    {
+      "shot_id": "s01",
+      "width": 1280,
+      "height": 720,
+      "bytes": 337850
+    },
+    {
+      "shot_id": "s02",
+      "width": 1280,
+      "height": 720,
+      "bytes": 391344
+    },
+    {
+      "shot_id": "s03",
+      "width": 1280,
+      "height": 720,
+      "bytes": 398135
+    },
+    {
+      "shot_id": "s04",
+      "width": 1280,
+      "height": 720,
+      "bytes": 405782
+    },
+    {
+      "shot_id": "s05",
+      "width": 1280,
+      "height": 720,
+      "bytes": 398170
+    },
+    {
+      "shot_id": "s06",
+      "width": 1280,
+      "height": 720,
+      "bytes": 379403
+    },
+    {
+      "shot_id": "s07",
+      "width": 1280,
+      "height": 720,
+      "bytes": 320584
+    },
+    {
+      "shot_id": "s08",
+      "width": 1280,
+      "height": 720,
+      "bytes": 388155
+    },
+    {
+      "shot_id": "s09",
+      "width": 1280,
+      "height": 720,
+      "bytes": 226409
+    },
+    {
+      "shot_id": "s10",
+      "width": 1280,
+      "height": 720,
+      "bytes": 189311
+    }
+  ],
+  "flags": [],
+  "human_review": [
+    "Shot 4: Krishna's hand meets the rim of the grain jar. Check the fingers.",
+    "Shot 8: both figures hold the same basket. The grip looks gentle, and it still needs a human look.",
+    "Shot 10: a wooden ledge appears under the basket. The verse is the basket itself.",
+    "The locked Krishna sheet and the front alternate do not share the same garland. Shots follow the locked three-quarter sheet.",
+    "The fruit seller wears a small red bindi. Confirm that this ordinary village mark is acceptable."
+  ],
+  "final": {
+    "path": "bhilni-katha-pilot.mp4",
+    "bytes": 39989887,
+    "width": 1920,
+    "height": 1080,
+    "video_seconds": 330.33,
+    "fps": 24.0,
+    "audio_seconds": 330.33
+  },
+  "motion_sample": {
+    "path": "s08-offering-motion.mp4",
+    "bytes": 18880528,
+    "width": 1920,
+    "height": 1088,
+    "video_seconds": 8.04,
+    "fps": 24.0,
+    "audio_seconds": 8.0
+  }
+}

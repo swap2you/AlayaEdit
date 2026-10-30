@@ -18,8 +18,8 @@ cookies.txt
 .env
 *.mp3
 *.mp4
-*.wav
 *.m4a
+*.wav
 *.mkv
 tools/
 words.jsonl
