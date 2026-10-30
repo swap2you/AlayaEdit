@@ -40,6 +40,8 @@ Katha library: https://drive.google.com/drive/folders/1vlsOpyow8XBUTpW96HnKw39rN
 
 The full link list is `work/vatsalya-lila/MAP.md`. The row to continue is in `work/vatsalya-lila/PROGRESS.md`.
 
+A separate book project was opened on 29 Oct 2026: `work/katha-books/vatsalya-lila/`. It is not a new lecture and it does not invent part 3. The Hindi reading sample is `hindi/ebook.html`. Rules are in that folder’s `STANDARD.md`.
+
 ## After part 13
 
 Parts 1, 2, and 4 through 13 are on Drive. Part 3 is missing from Desire Tree and from the audio folder. Do not invent it. Desire Tree base:
